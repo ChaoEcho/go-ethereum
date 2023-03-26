@@ -1,0 +1,19 @@
+package constants
+
+const (
+	BaseUrl = "HTTP://127.0.0.1:7545"
+
+	WSUrl = "ws://127.0.0.1:7545"
+
+	MainAccount = "0x9E2c84A27AEDD64cA5cab1bc18061f29152d4E40"
+
+	MainPrivateKey = "0x3f55a53ad0647f8b165830c26e7deb6781965c2930e8a78b464e42d7dd1d5a70"
+
+	TransactionAddress = "0x09E0e9CFce1338c7c0a86F8B125D8D7D7D0010dD"
+
+	StoreAddress = "0xA18e5D942F6BE620De64Ea81cbE169140B167D56"
+
+	ERC20Address = "0x252Bf9fC4E156dD1C8aDf21E4B5BFfa212bcE06b"
+
+	Protocol0xAddress = "0x1260DE653C682061676bD74CfD11AD7762bbeBe7"
+)
